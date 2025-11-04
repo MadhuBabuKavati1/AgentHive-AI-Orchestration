@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+pydantic
+pytest
+
+torch
+transformers
+sentence-transformers
